@@ -30,5 +30,8 @@
 </div> -->
 
 ---
-
-<img src="https://raw.githubusercontent.com/rdmm404/rdmm404/snake-output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rdmm404/rdmm404/snake-output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rdmm404/rdmm404/snake-output/snake-light.svg">
+  <img src="https://raw.githubusercontent.com/rdmm404/rdmm404/snake-output/snake-dark.svg" alt="Snake animation" />
+</picture>
