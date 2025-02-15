@@ -16,22 +16,22 @@
 
 ### Backend
 <picture>
-  <source media="(prefers-color-scheme: dark)" src="https://skillicons.dev/icons?i=python,flask,fastapi,django,postgres,mysql,redis">
-  <source media="(prefers-color-scheme: light)" src="https://skillicons.dev/icons?i=python,flask,fastapi,django,postgres,mysql,redis&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cflask%2Cfastapi%2Cdjango%2Cpostgres%2Cmysql%2Credis">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cflask%2Cfastapi%2Cdjango%2Cpostgres%2Cmysql%2Credis&theme=light">
   <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,postgres,mysql,redis" alt="python,flask,fastapi,django,postgres,mysql,redis" />
 </picture>
 
 ### Frontend
 <picture>
-  <source media="(prefers-color-scheme: dark)" src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind">
-  <source media="(prefers-color-scheme: light)" src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Chtml%2Ccss%2Cjs%2Cts%2Ctailwind">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Chtml%2Ccss%2Cjs%2Cts%2Ctailwind&theme=light">
   <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind" alt="react,html,css,js,ts,tailwind"/>
 </picture>
 
 ### DevOps
 <picture>
-  <source media="(prefers-color-scheme: dark)" src="https://skillicons.dev/icons?i=aws,gcp,docker,github,k8s,linux">
-  <source media="(prefers-color-scheme: light)" src="https://skillicons.dev/icons?i=aws,gcp,docker,github,k8s,linux&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws%2Cgcp%2Cdocker%2Cgithub%2Ck8s%2Clinux">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws%2Cgcp%2Cdocker%2Cgithub%2Ck8s%2Clinux&theme=light">
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,github,k8s,linux" alt="aws,gcp,docker,github,k8s,linux"/>
 </picture>
 
