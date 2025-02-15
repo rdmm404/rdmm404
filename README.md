@@ -22,11 +22,13 @@
 ### DevOps
 ![DevOps](https://skillicons.dev/icons?i=aws,gcp,docker,github,k8s,linux)
 
-<h2 align="left">Some Stats</h2>
+<!-- <h2 align="left">Some Stats</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rdmm404&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rdmm404&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-</div>
+</div> -->
+
+---
 
 <img src="https://raw.githubusercontent.com/rdmm404/rdmm404/snake-output/snake.svg" alt="Snake animation" />
