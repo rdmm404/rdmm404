@@ -8,7 +8,7 @@
 
 <img align="left" height="150" src="./assets/image.png"  />
 
-<p>Bla bla bla bla description</p>
+<p>Who am I?</p>
 
 <br clear="both">
 
@@ -25,7 +25,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Chtml%2Ccss%2Cjs%2Cts%2Ctailwind">
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Chtml%2Ccss%2Cjs%2Cts%2Ctailwind&theme=light">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind" alt="react,html,css,js,ts,tailwind"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind" alt="react,html,css,js,ts,tailwind,figma"/>
 </picture>
 
 ### DevOps
