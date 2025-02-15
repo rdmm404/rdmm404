@@ -13,14 +13,27 @@
 <br clear="both">
 
 ## My Tech Stack
+
 ### Backend
-![Backend](https://skillicons.dev/icons?i=python,flask,fastapi,django,postgres,mysql,redis)
+<picture>
+  <source media="(prefers-color-scheme: dark)" src="https://skillicons.dev/icons?i=python,flask,fastapi,django,postgres,mysql,redis">
+  <source media="(prefers-color-scheme: light)" src="https://skillicons.dev/icons?i=python,flask,fastapi,django,postgres,mysql,redis&theme=light">
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,postgres,mysql,redis" alt="python,flask,fastapi,django,postgres,mysql,redis" />
+</picture>
 
 ### Frontend
-![Frontend](https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind)
+<picture>
+  <source media="(prefers-color-scheme: dark)" src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind">
+  <source media="(prefers-color-scheme: light)" src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind&theme=light">
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind" alt="react,html,css,js,ts,tailwind"/>
+</picture>
 
 ### DevOps
-![DevOps](https://skillicons.dev/icons?i=aws,gcp,docker,github,k8s,linux)
+<picture>
+  <source media="(prefers-color-scheme: dark)" src="https://skillicons.dev/icons?i=aws,gcp,docker,github,k8s,linux">
+  <source media="(prefers-color-scheme: light)" src="https://skillicons.dev/icons?i=aws,gcp,docker,github,k8s,linux&theme=light">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,github,k8s,linux" alt="aws,gcp,docker,github,k8s,linux"/>
+</picture>
 
 <!-- <h2 align="left">Some Stats</h2>
 
