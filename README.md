@@ -23,9 +23,9 @@
 
 ### Frontend
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Chtml%2Ccss%2Cjs%2Cts%2Ctailwind">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Chtml%2Ccss%2Cjs%2Cts%2Ctailwind&theme=light">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind" alt="react,html,css,js,ts,tailwind,figma"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Chtml%2Ccss%2Cjs%2Cts%2Ctailwind%2Cfigma">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react%2Chtml%2Ccss%2Cjs%2Cts%2Ctailwind%2Cfigma&theme=light">
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind,figma" alt="react,html,css,js,ts,tailwind,figma"/>
 </picture>
 
 ### DevOps
