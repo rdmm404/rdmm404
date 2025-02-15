@@ -6,35 +6,21 @@
 
 ## About me
 
-<img align="left" height="150" src="https://static.wikia.nocookie.net/vinlandsaga/images/7/7c/ThorfinnVinlandArc2.jpeg"  />
+<img align="left" height="150" src="./assets/image.png"  />
 
 <p>Bla bla bla bla description</p>
 
 <br clear="both">
 
 ## My Tech Stack
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <div align="center">
-        <h3>Backend</h3>
-        <img src="https://skillicons.dev/icons?i=python,flask,fastapi,postgres,mysql,redis&perline=3" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <div align="center">  
-        <h3>Frontend</h3>
-        <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind&perline=3" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <div align="center">  
-        <h3>DevOps</h3>
-        <img src="https://skillicons.dev/icons?i=aws,gcp,docker,github,k8s,linux,&perline=3" />
-      </div>
-    </td>
-  </tr>
-</table>    
+### Backend
+![Backend](https://skillicons.dev/icons?i=python,flask,fastapi,django,postgres,mysql,redis)
+
+### Frontend
+![Frontend](https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind)
+
+### DevOps
+![DevOps](https://skillicons.dev/icons?i=aws,gcp,docker,github,k8s,linux)
 
 <h2 align="left">Some Stats</h2>
 
@@ -44,5 +30,3 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/rdmm404/rdmm404/output/snake.svg" alt="Snake animation" />
-
-###
