@@ -16,7 +16,7 @@
   </div>
 </div>
 
-<!-- <br clear="both"> -->
+<br clear="both">
 
 ## My Tech Stack
 
