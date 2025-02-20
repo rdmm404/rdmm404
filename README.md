@@ -10,8 +10,8 @@
 <div>
   <p>📍 <strong>Toronto, ON</strong></p>
   <p>💻 <strong>Currently building</strong> <a href="https://github.com/rdmm404/lurk">Lurk</a>, <a href="https://github.com/rdmm404/simple-translate-api">Simple Translate</a></p>
-  <p>⚙️<strong>Passionate about</strong> starting projects and not finishing them :p</p>
-  <p>🕹️<strong>Recently obsessed with</strong> AI, electronics, soldering, home automation</p>
+  <p>⚙️ <strong>Passionate about</strong> starting projects and not finishing them :p</p>
+  <p>🕹️ <strong>Recently obsessed with</strong> AI, electronics, soldering, home automation</p>
 </div>
 
 <br clear="both">
