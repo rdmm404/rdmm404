@@ -6,23 +6,32 @@
 
 ## About me
 
-<img align="left" height="150" src="./assets/image.png"  />
+<img align="left" height="150" src="./assets/image.png" />
+
 <div>
   <p>📍 <strong>Toronto, ON</strong></p>
-  <p>💻 <strong>Currently building</strong> <a href="https://github.com/rdmm404/hiremepls">HiremePLS</a>, <a href="https://github.com/rdmm404/lurk">Lurk</a>, <a href="https://github.com/rdmm404/simple-translate-api">Simple Translate</a></p>
-  <p>⚙️ <strong>Passionate about</strong> starting projects and not finishing them :p</p>
-  <p>🕹️ <strong>Recently obsessed with</strong> AI, electronics, soldering, home automation</p>
+  <p>💻 <strong>Senior Software Engineer at</strong> <a href="https://www.achievers.com/">Achievers</a>, working with Python and Go</p>
+  <p>⚙️ <strong>Passionate about</strong> building things I actually use and automating things I probably could've done manually :p</p>
+  <p>🕹️ <strong>Recently obsessed with</strong> AI agents, developer tooling, Linux, and home automation</p>
 </div>
 
 <br clear="both">
+
+## Things I'm working on
+
+- **[Voltio](https://github.com/rdmm404/voltio)** — A personal AI assistant built around Pi, starting with a Telegram interface.
+- **[Voltr Finance](https://github.com/rdmm404/voltr-finance)** — A service for managing my household finances. Go, PostgreSQL, a REST API, CLI, and web dashboard.
+- **[Harness](https://github.com/rdmm404/harness)** — My coding-agent setup, including custom Pi extensions, subagent tooling, and configuration.
+- **Homelab** — Self-hosted services, AI tools, and home automation. Linux, Docker, Home Assistant, monitoring, and backups.
+- **Hardware** — Electronics and home automation projects. Recently built an ESPHome bed shaker controlled through Home Assistant to help me avoid my phone in the mornings.
 
 ## My Tech Stack
 
 ### Backend
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cflask%2Cfastapi%2Cdjango%2Cpostgres%2Cmysql%2Credis">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cflask%2Cfastapi%2Cdjango%2Cpostgres%2Cmysql%2Credis&theme=light">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,django,postgres,mysql,redis" alt="python,flask,fastapi,django,postgres,mysql,redis" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cgo%2Cflask%2Cfastapi%2Cdjango%2Cpostgres%2Cmysql%2Credis">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cgo%2Cflask%2Cfastapi%2Cdjango%2Cpostgres%2Cmysql%2Credis&theme=light">
+  <img src="https://skillicons.dev/icons?i=python,go,flask,fastapi,django,postgres,mysql,redis" alt="python,go,flask,fastapi,django,postgres,mysql,redis" />
 </picture>
 
 ### Frontend
